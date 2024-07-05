@@ -2,7 +2,7 @@
 
 - 💻 Sistemas de Informação (3/8)
 - 🌱 Desenvolvimento Front-end
-- 🌱 Analise de Dados
+- 🌱 Engnheira de Dados
 
 <br><br>
 ## 📊 Stats and Activity
