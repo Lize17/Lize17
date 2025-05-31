@@ -1,8 +1,7 @@
 ## Olá! Eu sou Laíze Santos 👋
 
-- 💻 Sistemas de Informação (5/8)
-- 🌱 Engnheira de Dados
-- 🌱 IA e ML
+- 🌱 Engenharia de Dados
+- 🌱 IA 
 
 <br><br>
 ## 📊 Stats and Activity
