@@ -1,40 +1,76 @@
-## Olá! Eu sou Laíze Santos 👋
+<!-- Banner mágico com mensagem de boas-vindas -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&text=BEM-VINDO(A)!%20✨&fontSize=35&fontColor=ffffff"/>
 
-- 🌱 Engenharia de Dados
-- 🌱 IA 
 
-<br><br>
-## 📊 Stats and Activity
+<h1 align="center">💖 Olá, sou a Laíze Santos 💖</h1>
+<h3 align="center">🎓 Estudante apaixonada por Engenharia de Dados e Inteligência Artificial 💡</h3>
+
 <div align="center">
-<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Lize17&theme=dracula&hide_border=true&include_all_commits=false&count_private=true"/> <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lize17&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-<br><br>
+  <img src="https://img.shields.io/badge/Dados-%23f48fb1.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-%23ec407a.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 </div>
 
-## Tecnologias 
-<div style="display: inline_block"><br>
-  
-   <img align="center" alt="lize-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lize-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lize-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lize-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="lize-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="lize-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+---
 
- 
-</div>
- 
-## 
+### 🌸 Sobre mim
 
-## 🌐 Contatos/Redes 
-<div> 
-  <a href="https://instagram.com/dev.lize" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:laizesantos13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/la%C3%ADze-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+✨ Uma sonhadora que acredita no poder dos dados!  
+🌱 Estudando sobre Cloud, Pipelines de Dados e Inteligência Artificial.  
+🦄 Curiosa, criativa e com sede de conhecimento.  
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="center">
+
+<!-- Linguagens e Bancos -->
+  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="SQL Server" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+<!-- Cloud, DevOps, Ferramentas -->
+  <img alt="GCP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img alt="Terraform" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img alt="GitLab" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="Apache" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+
 </div>
-  
-<!---
-Lize17/Lize17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### ✨ GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lize17&show_icons=true&theme=cobalt&icon_color=ff69b4&title_color=ffb6c1&text_color=ffffff&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lize17&layout=compact&theme=cobalt&title_color=ffb6c1&text_color=ffffff&hide_border=true"/>
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://instagram.com/dev.lize" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:laizesantos13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23FF1493.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/la%C3%ADze-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 💫 Pequena frase motivacional
+
+> "Continue Aprendendo e Crescendo." ✨
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
+</div>
